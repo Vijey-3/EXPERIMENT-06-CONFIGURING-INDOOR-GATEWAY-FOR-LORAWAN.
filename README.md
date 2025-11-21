@@ -1,4 +1,9 @@
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
+**NAME: VIJEY K S**
+
+**ROLL NO: 212223040239**
+
+**DEPARTMENT: CSE**
 
 ## Aim: 
 
@@ -120,6 +125,8 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 ## OUTPUT 
 
+<img width="493" height="659" alt="image" src="https://github.com/user-attachments/assets/7a7f7be6-cbea-441f-b069-6bab9cf2a445" />
+<img width="1545" height="733" alt="image" src="https://github.com/user-attachments/assets/a9db5dc8-33ea-4452-abca-760f851616f1" />
 
 
 
